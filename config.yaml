@@ -1,0 +1,9 @@
+# Exercise configuration file
+
+exercise:
+  name: ros_template
+  notebook_settings: 
+    notebook: LRA_LQR
+    package_name: lane_control
+
+# TODO notebook_settings can contain a list 
